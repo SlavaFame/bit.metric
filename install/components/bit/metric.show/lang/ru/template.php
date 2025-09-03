@@ -1,0 +1,43 @@
+<?php
+
+$MESS['BIT_METRICA_TITLE']="Аналитика";
+$MESS['BIT_METRICA_SUBTITLE']="Все пользователи";
+$MESS['BIT_METRICA_TABLE_HEAD_C1']="Дата";
+$MESS['BIT_METRICA_TABLE_HEAD_C2']="Устройство";
+$MESS['BIT_METRICA_TABLE_HEAD_C3']="Пользователи";
+$MESS['BIT_METRICA_TABLE_HEAD_C4']="Новые пользователи";
+$MESS['BIT_METRICA_TABLE_HEAD_C5']="Сеансы";
+$MESS['BIT_METRICA_TABLE_HEAD_C6']="Сеансов на пользователя";
+$MESS['BIT_METRICA_TABLE_HEAD_C7']="Просмотры страниц";
+$MESS['BIT_METRICA_TABLE_HEAD_C8']="Страниц на сеанс";
+$MESS['BIT_METRICA_TABLE_HEAD_C9']="Средняя длительность";
+$MESS['BIT_METRICA_TABLE_HEAD_10']="Показатель отказов";
+$MESS['BIT_METRICA_TABLE_HEAD_11']="Визит";
+$MESS['BIT_METRICA_TABLE_HEAD_12']="Ресурс";
+$MESS['BIT_METRICA_TAB_1']="Подробно";
+$MESS['BIT_METRICA_TAB_2']="Устройства";
+$MESS['BIT_METRICA_TAB_3']="Переходы";
+$MESS['BIT_METRICA_TAB_4']="Язык";
+$MESS['BIT_METRICA_TAB_5']="Страна";
+$MESS['BIT_METRICA_TAB_6']="Город";
+$MESS['BIT_METRICA_TAB_7']="Цели";
+$MESS['BIT_METRICA_TAB_8']="Заказы";
+$MESS['BIT_METRICA_TAB_10']="Страницы";
+$MESS['BIT_METRICA_TAB_11']="Пользователи";
+$MESS['BIT_METRICA_TAB_12']="Активность пользователей";
+$MESS['BIT_METRICA_SOURCE_D']="Компьютер";
+$MESS['BIT_METRICA_SOURCE_T']="Планшет";
+$MESS['BIT_METRICA_SOURCE_M']="Телефон";
+$MESS['BIT_METRICA_SOURCE_ALL']="Всего";
+$MESS['BIT_METRICA_EXPORT']="Экспорт"; 
+
+$MESS['BIT_METRICA_LIKES_SUM']="Оставлено лайков";
+$MESS['BIT_METRICA_COMMENTS_SUM']="Написано комментариев";
+$MESS['BIT_METRICA_POSTS_SUM']="Создано постов";
+$MESS['BIT_METRICA_POSTS_VIEWS_SUM']="Просмотрено постов";
+$MESS['BIT_METRICA_TASKS_SUM']="Поставлено задач";
+$MESS['BIT_METRICA_TASKS_FINISHED_SUM']="Завершено задач";
+$MESS['BIT_METRICA_EVENTS_SUM']="События календаря";
+$MESS['BIT_METRICA_SURVEYS_SUM']="Создано опросов";
+$MESS['BIT_METRICA_MESSAGES_SUM']="Написано сообщений";
+$MESS['BIT_METRICA_GROUPS_SUM']="Создано групп";
