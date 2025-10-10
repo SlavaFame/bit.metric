@@ -25,3 +25,4 @@
 - **Bitrix Framework**<br>
 - **PHP 7.4+**<br>
 - **MySQL 5.7+**<br>
+- **curl**<br>
